@@ -1,9 +1,11 @@
 ![MasterHead](https://camo.githubusercontent.com/5dc6ee33381917e41fc9c4951799268998f11a9b864399bf79a0842e4f9b194d/68747470733a2f2f692e696d6775722e636f6d2f315a76566b44632e676966)
 <h1 align="center">Hi 👋, I'm Eshtab</h1>
-<h3 align="center">A quick learner with a passion for technology</h3>
-<img align="right" alt="fun coding" width="400" src="https://art.pixilart.com/sr2712ab0b35ecd.gif">
+<div align="center">
+  <h3 align="center">A quick learner with a passion for technology</h3>
+  <img  alt="fun coding" width="400" src="https://art.pixilart.com/sr2712ab0b35ecd.gif">
+</div><br>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codeesh" alt="codeesh" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codeesh" alt="codeesh" /></a> </p>
 
 - 🌱 I’m currently learning **Web Development**
 
